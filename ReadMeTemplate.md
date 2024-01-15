@@ -50,12 +50,23 @@ console.log('hello world!')
 - [x] Task1
 - [] Task1
 
+<br>
 
-  ## Automatic Link
+
+# Table Syntax
+
+| Name | Email |
+| ----- | ----- |
+| Abdul | abdul@outlook.com |
+| Mofij | mofij@gmail.com |  
+
+
+
+## Automatic Link
 
   http://www.studywithanis.com
 
-  ## Disable link
+## Disable link
 
   `http://www.studywithanis.com`
 
@@ -79,4 +90,8 @@ console.log('hello world!')
 
 <img src="./images/web.jpg" widht="200" height="100"/>
 
-😊
+😊  
+
+
+
+
